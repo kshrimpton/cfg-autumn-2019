@@ -1,0 +1,28 @@
+body {
+background-color: #f54298;
+}
+h1 {
+  color: red;
+}
+h2 {
+  color: red;
+}
+div#main {
+  background-color: #f2a5af;
+  width: 75%;
+}
+div#title {
+  text-align: center;
+  font-size: 32px;
+  background-color: white;
+}
+div#container {
+  background: white;
+}
+div.section {
+  color: white;
+  background: black;
+  font-size: 32px;
+  width: 33.333%;
+  float: left;
+}
